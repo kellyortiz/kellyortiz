@@ -5,7 +5,7 @@
 [![linktree](https://img.shields.io/badge/Linktr.ee-137d11?style=for-the-badgee&logo=linktree&logoColor=white)](https://linktr.ee/keortizf)
 
 ### Sobre mim:
-👩‍💻 Atualmente sou desenvolvedora Back-End
+👩‍💻 Sou analisa de desenvolvimento e UI/UX
 
 #### :mortar_board: Formações:
 
@@ -15,8 +15,6 @@
 
 #### 📖 Estou estudando:
 * Gestão de Projetos (Pós-Graduação) - Mackenzie
-* Golang
-* Kanban
 
 #### ⭐ Hobbies
 * Fotografar 📷
