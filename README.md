@@ -5,7 +5,7 @@
 [![linktree](https://img.shields.io/badge/Linktr.ee-137d11?style=for-the-badgee&logo=linktree&logoColor=white)](https://linktr.ee/keortizf)
 
 ### Sobre mim:
-👩‍💻 Sou desenvolvedora e UI/UX
+👩‍💻 Sou desenvolvedora .Net na PouPay
 
 #### :mortar_board: Formações:
 
